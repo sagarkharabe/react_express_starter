@@ -14,7 +14,7 @@ npm run client-install
 # Run the client & server with concurrently
 npm run dev
 
-#If you want to run server and client differently, follow..
+#If you want to run server and client on two terminals(or separatedly), follow steps..
 # Run the Express server only
 npm run server
 
